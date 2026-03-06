@@ -29,23 +29,6 @@ This project demonstrates the use of **CNN (Convolutional Neural Networks)** for
 
 ---
 
-## 📂 Project Structure
-
-emotion-detector
-│
-├── dataset
-│   ├── train
-│   └── test
-│
-├── train_model.py            # Model training script
-├── detect_emotion.py         # Real-time emotion detection using webcam
-├── emotion_model.hdf5        # Trained deep learning model
-├── haarcascade_frontalface_default.xml  # Face detection model
-├── requirements.txt          # Required Python libraries
-└── README.md
-
----
-
 ## 🧠 Model Architecture
 
 The project uses a **Convolutional Neural Network (CNN)** for emotion classification.
