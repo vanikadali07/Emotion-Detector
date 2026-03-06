@@ -1,0 +1,10 @@
+# Ignore the large dataset folder
+dataset/
+*.hdf5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
